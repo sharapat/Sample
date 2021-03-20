@@ -1,6 +1,11 @@
-TexnoPOS lakjshdla
-flkdjahfs
-dlkfjashldkjfs
+Serverge jiberiw
 
-fkjashflkjasd
-FLDJHALSKJHFSJDF
+git add .
+git commit -m "some text"
+git push
+
+Stash:
+git stash - saqlanbagan ózgerislerdi korzinaga aliw
+git stash pop - korzinadaǵı aqırǵı stashtı ornına qaytarıw
+git stash drop - aqırǵı stashtı óshiriw
+git stash list - stashlar dizimin kóriw
